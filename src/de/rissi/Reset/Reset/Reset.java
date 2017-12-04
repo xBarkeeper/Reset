@@ -1,4 +1,4 @@
-package de.rissi.Reset;
+package de.rissi.Reset.Reset;
 
 import java.io.File;
 import java.util.ArrayList;
