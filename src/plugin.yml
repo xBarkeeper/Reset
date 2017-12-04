@@ -1,0 +1,6 @@
+name: Reset
+version: 1.0.0
+main: de.rissi.Reset.Reset
+description: Reset the World if anyone Die
+author: xBarkeeper
+website: rissi.de
